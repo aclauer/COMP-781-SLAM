@@ -1,4 +1,4 @@
-# COMP-781-SLAM
+# COMP 781 SLAM
 SLAM pipeline for COMP 781 final project.
 
 # Resources
